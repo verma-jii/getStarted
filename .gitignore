@@ -1,0 +1,4 @@
+# this is the file use to ignore the files which u do not want to track of by git
+# index.html
+
+# *.html (select all file with .html)
